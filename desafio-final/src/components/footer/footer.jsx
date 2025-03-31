@@ -15,7 +15,7 @@ export default function footer(){
                 <a href=""> <img src={Twitter} alt="Logo do Tiwitter"/> </a>
                 <a href=""> <img src={Youtube} alt="Logo do Youtube"/> </a>
                 <a href=""> <img src={Linkedlin} alt="Logo do Linkedin"/> </a>
-                <a href=""> <img src={Instagran} alt="Logo do instagram"/> </a>
+                <a href=""> <img src={Instagran} alt="Logo do instagra"/> </a>
             </nav>
         </section>
 
